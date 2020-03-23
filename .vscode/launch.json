@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-QuotesApplication<quotes>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.nagarro.quotes.QuotesApplication",
+            "projectName": "quotes",
+            "args": ""
+        }
+    ]
+}
